@@ -19,7 +19,7 @@ Save the data to the file
 
 # CODE
 ```
-Developed By: HARISH RAGAENDRA S
+Developed By: HARISH RAGAVENDRA S
 Reg.No: 212222230045
 
 #loading dataset
